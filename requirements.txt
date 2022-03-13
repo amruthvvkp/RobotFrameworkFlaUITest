@@ -1,0 +1,10 @@
+wheel
+
+# Project Core Dependencies
+robotframework
+
+# VS Code Specific Dependencies
+yapf
+mypy
+isort
+jupyter
